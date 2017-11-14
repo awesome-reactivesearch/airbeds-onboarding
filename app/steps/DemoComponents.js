@@ -94,7 +94,7 @@ export default class DemoComponents extends Component {
 						</div>
 						<div className="right-col">
 							<p><strong>ReactiveBase</strong> is the first component in a ReactiveSearch app, it connects the UI layer with the appbase.io DB service, where we indexed the Airbnb dataset.</p>
-							<p>You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/v1.0.0/getting-started/ReactiveBase.html" target="_blank">here</a>.</p>
+							<p>You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/getting-started/reactivebase.html" target="_blank">here</a>.</p>
 						</div>
 					</div>
 
@@ -106,7 +106,7 @@ export default class DemoComponents extends Component {
 						</div>
 						<div className="right-col">
 							<img src="https://i.imgur.com/nGe0rYe.png" />
-							<p><strong>NumberBox</strong> creates a NumberBox UI component. It prunes available listings based on the number of current selected guests. You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/v1.0.0/components/NumberBox.html" target="_blank">here</a>.</p>
+							<p><strong>NumberBox</strong> creates a NumberBox UI component. It prunes available listings based on the number of current selected guests. You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/basic-components/numberbox.html" target="_blank">here</a>.</p>
 						</div>
 					</div>
 
@@ -118,7 +118,7 @@ export default class DemoComponents extends Component {
 						</div>
 						<div className="right-col">
 							<img src="https://i.imgur.com/1NQyO0H.png" />
-							<p><strong>DateRange</strong> creates a calendar view based UI component. It filters the available listings based on a user selected date range. You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/v1.0.0/components/DateRange.html" target="_blank">here</a>.</p>
+							<p><strong>DateRange</strong> creates a calendar view based UI component. It filters the available listings based on a user selected date range. You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/basic-components/daterange.html" target="_blank">here</a>.</p>
 						</div>
 					</div>
 
@@ -130,7 +130,7 @@ export default class DemoComponents extends Component {
 						</div>
 						<div className="right-col">
 							<img src="https://i.imgur.com/WE8Fvpt.png" />
-							<p><strong>RangeSlider</strong> creates a numeric range based UI component. We will use it to create a price filter. Additionally, we will use the <code>react</code> prop to only display price ranges of the available listings. You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/v1.0.0/components/RangeSlider.html" target="_blank">here</a>.</p>
+							<p><strong>RangeSlider</strong> creates a numeric range based UI component. We will use it to create a price filter. Additionally, we will use the <code>react</code> prop to only display price ranges of the available listings. You can read more about it in the docs <a href="https://opensource.appbase.io/reactive-manual/basic-components/rangeslider.html" target="_blank">here</a>.</p>
 						</div>
 					</div>
 
